@@ -13,6 +13,7 @@ import pynput, time
 import sys
 import os
 
+
 def click():
     # 将要运行的代码加到这里
 
