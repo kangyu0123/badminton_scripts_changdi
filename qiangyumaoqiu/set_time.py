@@ -11,7 +11,6 @@ def wait_time():
         seconds_to_wait = time_difference.total_seconds()
         return seconds_to_wait
 
-
 print("距离主体程序运行还有：")
 while wait_time() > 0:
     seconds_to_wait = wait_time()
